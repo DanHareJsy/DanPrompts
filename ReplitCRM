@@ -1,0 +1,6 @@
+Create me a crm with a relational database storage 
+This is for a company that buys and sells software as well as performing professional services
+We need the ability to create ; company, contact, deal, quote
+We need our clients to be able to review and sign quotes online
+I would like a dashboard showing typical deal pipeline analytics
+Populate the tables with some sample data
